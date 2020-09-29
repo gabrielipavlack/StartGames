@@ -1,0 +1,117 @@
+body{
+background: white;
+font-family: sans-serif;
+  margin:0px !important;
+   padding: 0px !important;
+   font-size: 16px;
+   text-align: justify;
+
+
+
+}
+
+#footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+#capa{
+
+text-align: center;
+background-color: black;
+}
+
+
+#menu{
+	background-color: black;
+	padding: 18px;
+	font-size: 1.34em;
+	text-align: center;
+
+}
+
+#conteudohome{
+	width: 830px;
+    margin: 0 auto;
+	padding: 10px;
+
+	
+}
+
+h2{
+	font-size: 2em;
+	color: #0D1A73;
+}
+
+a{
+
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	padding: 5px;
+	
+}
+
+a:hover{
+  color:#0D1A73;
+
+}
+
+#imghome{
+	width: 830px;
+	height: 350px;
+}
+
+
+#otherslinks{
+	color: #0D1A73;
+	padding: none;
+
+
+}
+
+a:active{
+	color: #0404B4;
+}
+
+#namegame{
+	  color:#0D1A73;
+	  font-weight: bold;
+}
+
+
+.button {
+  background-color: #0D1A73;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+
+textarea {
+  width: 50%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
+input[type=text]{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
